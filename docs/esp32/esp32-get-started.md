@@ -182,12 +182,11 @@ If you encounter problems, you can reach out to us from:
 * 头文件include path配置
 
 导入示例代码以后，发现头文件找不到，解决方案：
- ** 搜索头文件的名称，例如”wifi.h“这个头文件，找到路径如下：
-  *** /Users/xuwei32/Library/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/WiFi/src/WiFi.h
-  *** /Applications/Arduino.app/Contents/Java/libraries/WiFi/src/WiFi.h
-  *** /Users/xuwei32/Library/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/AzureIoT/src/Esp32MQTTClient.h
- 
- ** 设置vscode，修改include path，如下图所示：
+	1. 搜索头文件的名称，例如”wifi.h“这个头文件，找到路径如下：
+		1.1 /Users/xuwei32/Library/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/WiFi/src/WiFi.h
+		1.2 /Applications/Arduino.app/Contents/Java/libraries/WiFi/src/WiFi.h
+		1.3 /Users/xuwei32/Library/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/AzureIoT/src/Esp32MQTTClient.h
+	2. 设置vscode，修改include path，如下图所示：
 ![azure-iot-toolkit-output-console](media/esp32-get-started/includePath-1.png)
 ![azure-iot-toolkit-output-console](media/esp32-get-started/includePath-2.png)
 
