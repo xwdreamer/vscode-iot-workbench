@@ -11,18 +11,15 @@ For first-time users of ESP32 devices, follow these quick steps to:
 * How to create an IoT Hub and register a ESP32 device.
 * How to send sample data to your IoT hub.
 
-## What you need
 
-* A ESP32 device. 
-> Note: We use [M5Stack](www.m5stack.com) in this tutorial, but the steps below could also be applied to other ESP32 devices.
-* A computer running Windows 10 or macOS 10.10+.
-* An active Azure subscription. [Activate a free 30-day trial Microsoft Azure account](https://azure.microsoft.com/en-us/free/).
 
-![Required hardware](media/esp32-get-started/hardware.jpg)
 
-## Prepare your hardware
+## 环境准备
+* ESP32设备：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.45f72e8dwuIkw5&id=582095834615&_u=n1ajmjdae38
+* macOS 10.14
+* Azure账号
 
-For M5Stack, please follow the [guide](http://www.m5stack.com/assets/docs/index.html) to prepare the hardware.
+
 
 ## Install development environment
 
