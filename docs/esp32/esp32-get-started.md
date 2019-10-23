@@ -167,3 +167,16 @@ You can send message to your device with Azure Portal or other API. Please Make 
 
 If you encounter problems, you can reach out to us from:
 * [Gitter.im](https://gitter.im/Microsoft/vscode-iot-workbench)
+
+
+
+## 更新的内容
+针对ESP32 Azure IoT Kit这个开发板，有一些特定的配置：
+
+* 打开串口调试（通用）
+![azure-iot-toolkit-output-console](media/esp32-get-started/SerialMonitor.png)
+
+* 配置开发板（特定）
+![azure-iot-toolkit-output-console](media/esp32-get-started/ArduinoBoardConf.png)
+
+
